@@ -1,11 +1,5 @@
 # Comparative Capability-Gap Tracking
 
-*Method item 1 of 5 (see README § Method). Compiled via multi-source research with adversarial claim verification (3-vote per claim, 2/3 needed to kill). Generated 2026-07-22. Stats: 111 claims extracted from 23 sources across 5 search angles → 25 claims put through verification → 19 confirmed, 6 refuted.*
-
-## Confirmed findings
-
-These claims survived independent adversarial verification (each vote is skeptics-refuting-count / total-votes; a claim needed 2+ refutes to be killed).
-
 ### 1. gpt-oss: OpenAI's release, not withholding, decision (high confidence)
 
 OpenAI released **gpt-oss-120b** (116.8B total / 5.1B active params) and **gpt-oss-20b** (20.9B total / 3.6B active params) on **August 5, 2025** under Apache 2.0 plus a usage policy, with full chain-of-thought access — its first open-weight release since GPT-2 (2019).
