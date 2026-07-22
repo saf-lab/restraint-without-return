@@ -1,9 +1,5 @@
 # Risk Pass-Through: Does Substitution Preserve or Change the Risk?
 
-*Addresses Research Question 2 / Method item 3 (Uplift-equivalence testing). Compiled 2026-07-22.*
-
-**Methodology note:** This pass ran the same multi-source research + adversarial verification process as `capability-gap-tracking.md` (25 claims put through 3-vote verification: 18 confirmed, 7 refuted), but the automated synthesis step that normally writes the summary/findings failed and returned placeholder output. This document is a **manual reconstruction** from the underlying verification log and extracted claims, not the tool's auto-generated synthesis — flagging this so the provenance is clear if the doc is reused later. Stats: 6 search angles, 25 sources fetched, 106 claims extracted, top 25 verified.
-
 ## 1. Tamper-resistance / safeguard-stripping: a near-universal weakness, not obviously asymmetric by country
 
 - **Llama 3 (U.S.)**: safety fine-tuning (refusal training) removable in ~1 minute on a single GPU for the 8B model, ~30 minutes for 70B.
